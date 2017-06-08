@@ -11,10 +11,6 @@ Quitting shouldn't be so easy. Modal confirmation dialogs are annoying, so why n
 - <kbd>ctrl/cmd</kbd> + <kbd>q</kbd> **(osx/linux)**: opens up a quick panel (shown below) that let you choose from a number of options.
 - <kbd>alt</kbd> + <kbd>f4</kbd> **(windows only)**: also opens up the quick panel shown below.
 
-<p align="center">
-	<img src="http://xavi.co/static/maybs-quit-menu.png" alt="Quit menu" />
-</p>
-
 Optionally you can also make this menu appear before the last view in a window is closed by added this keybaord shortcut to your settings:
 
 ```json
