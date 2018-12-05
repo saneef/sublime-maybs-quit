@@ -21,17 +21,16 @@ Optionally you can also make this menu appear before the last view in a window i
 
 Muscle memory... why fight it?
 
-## Getting Maybs Quit
+## Installing
 
-The easiest way to get Maybs Quit is with [Sublime Package Control](http://wbond.net/sublime_packages/package_control/installation). Search for "Maybs Quit".
+Clone this git repository into your [Packages Directory](http://sublimetext.info/docs/en/basic_concepts.html):
 
-Alternatively you can clone this git repository into your [Packages Directory](http://sublimetext.info/docs/en/basic_concepts.html):
+	git://github.com/saneef/sublime-maybs-quit.git
 
-	git://github.com/xavi-/sublime-maybs-quit.git
+## Thanks
 
-## Developed by
-
-* Xavi Ramirez
+* [Xavi Ramirez](https://github.com/xavi-) (Original Developer)
+* [Juan Cristobal Pazos](https://github.com/jCrip) (Improvements)
 
 ## License
 
