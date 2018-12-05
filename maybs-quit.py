@@ -4,10 +4,7 @@ class QuitGuardCommand(sublime_plugin.TextCommand):
 
 	OPTIONS = (
 		('Quit Now!', 'exit', ),
-		('Close View', 'close', ),
-		('Close Window', 'close_window', ),
 		('Close Project', 'close_workspace'),
-		('Save as...', 'prompt_save_as', ),
 		('Cancel', None, ),
 	)
 
